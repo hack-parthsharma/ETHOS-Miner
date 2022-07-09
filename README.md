@@ -17,6 +17,6 @@ If all went good you will get response: `ok`
 * Update your packages `sudo apt-get update`
 * Install Git, Python and PiP `sudo apt-get install git python python-pip`
 * Install Python daemon wrapper `pip install python-daemon`
-* Install ethos-miner-com `cd /opt && git clone https://github.com/hack-parthsharma/ETHOS Miner`
+* Install ethos-miner-com `cd /opt && git clone https://github.com/hack-parthsharma/ETHOS-Miner`
 * Set `/opt/ethos-miner-com/main.py start` in your `/etc/profile`
 * Modify the TTYSN variable to your COM port
